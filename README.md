@@ -1,0 +1,1 @@
+Just a simple client-side ML app testing out Tensorflow.js as well as Vue.js; predicts a response variable Y for a univariate function taking input X.
